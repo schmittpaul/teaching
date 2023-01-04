@@ -4,7 +4,7 @@ title: Project
 nav_order: 3
 has_children: false
 parent: EE693F
-grandparent: Home
+grand_parent: Home
 ---
 
 ## Project

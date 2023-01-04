@@ -4,7 +4,7 @@ title: Additional Resources
 nav_order: 5
 has_children: false
 parent: EE693F
-grandparent: Home
+grand_parent: Home
 ---
 
 ## I'll add some additional resources throughout the semester here

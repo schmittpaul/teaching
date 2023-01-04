@@ -4,7 +4,7 @@ title: Security Review
 nav_order: 4
 has_children: false
 parent: EE693F
-grandparent: Home
+grand_parent: Home
 ---
 
 ## Security Reviews

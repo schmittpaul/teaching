@@ -4,7 +4,7 @@ title: Schedule
 nav_order: 2
 has_children: false
 parent: EE693F
-grandparent: Home
+grand_parent: Home
 ---
 
 # Schedule 
