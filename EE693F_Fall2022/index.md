@@ -1,9 +1,9 @@
 ---
 layout: default
 title: EE693F
-nav_order: 2
-has_children: true
 parent: Home
+nav_order: 1
+has_children: true
 ---
 
 # Privacy and Security in the Modern Internet
