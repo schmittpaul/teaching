@@ -4,6 +4,7 @@ title: Security Review
 nav_order: 4
 has_children: false
 parent: EE449 - Spring 2023
+grandparent: Home
 ---
 
 ## Security Reviews

@@ -4,6 +4,7 @@ title: Schedule
 nav_order: 2
 has_children: false
 parent: EE449 - Spring 2023
+grandparent: Home
 ---
 
 # Schedule 
