@@ -13,18 +13,16 @@ Paul Schmitt
 pschmitt \[at\] hawaii.edu
 
 ## Details
-This is a course designed for students who have an interest in academic
-research as well as students who seek to develop creative systems
-problem-solving skills that are necessary for the next generation of engineers
-and developers. We will take a tour of a variety of contemporary research
-topics, with an eye towards not only learning something about the individual
-topics, but also dissecting what makes for successful solutions. Networked
-systems privacy and security is quite broad, which is one of its appeals -
-privacy/security issues arise in any area, and privacy/security is difficult. 
+It is hard to think of a technology that has more changed the way we live than the Internet. From the very way we communicate, access and exchange information, shop, pay, move, entertain, maintain friendship. At the same time, the Internet is inexorably growing, at an always faster pace: from 3 billion of connected hosts in 2015 to an estimated 4 billion in 2019.
+
+At the end of this course, you will be able to:
+
+1. understand how the Internet works: from your laptop to Google's datacenter at the other end of planet;
+2. build and operate an Internet-like network infrastructure;
+3. identify the right set of metrics to evaluate the performance or the adequacy of a network and propose ways to improve it (if any).
 
 ## Textbooks
-There are no required texts. Papers and various resources will be provided
-throughout the semester.
+We will use the textbook [Computer Networking: A Top-Down Approach (6th Edition) by Kurose and Ross](http://www.amazon.com/Computer-Networking-Top-Down-Approach-6th/dp/0132856204/) as a reference and as a source of examples. Older versions of the book are fine too but sections number won't necessarily match.
 
 ## Prerequisites 
 Pre: 315 and one of 342, or MATH 371 or MATH 471; or consent.
