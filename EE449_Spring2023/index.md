@@ -5,7 +5,7 @@ has_children: true
 parent: Home
 ---
 
-# 449 title
+# Computer Communication Networks
 
 ## Instructor
 Paul Schmitt
@@ -27,8 +27,7 @@ There are no required texts. Papers and various resources will be provided
 throughout the semester.
 
 ## Prerequisites 
-Prior coursework in networking and operating systems or consent of the
-instructor.
+Pre: 315 and one of 342, or MATH 371 or MATH 471; or consent.
 
 ## Requirements
 
