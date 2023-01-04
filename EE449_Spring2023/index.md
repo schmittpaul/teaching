@@ -4,7 +4,6 @@ title: EE449 - Spring 2023
 nav_order: 1
 has_children: true
 parent: Home
-nav_order: 1
 ---
 
 # 449 title
