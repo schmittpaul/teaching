@@ -3,7 +3,7 @@ layout: default
 title: Additional Resources
 nav_order: 5
 has_children: false
-parent: EE693F
+parent: EE449 - Spring 2023
 ---
 
 ## I'll add some additional resources throughout the semester here

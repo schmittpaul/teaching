@@ -3,7 +3,7 @@ layout: default
 title: Security Review
 nav_order: 4
 has_children: false
-parent: EE693F
+parent: EE449 - Spring 2023
 ---
 
 ## Security Reviews

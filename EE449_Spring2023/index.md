@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EE449
+title: EE449 - Spring 2023
 nav_order: 1
 has_children: true
 nav_order: 1

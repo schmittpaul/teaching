@@ -3,7 +3,7 @@ layout: default
 title: Project
 nav_order: 3
 has_children: false
-parent: EE693F
+parent: EE449 - Spring 2023
 ---
 
 ## Project
