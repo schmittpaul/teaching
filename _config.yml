@@ -7,10 +7,10 @@ search_enabled: false
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
-  heading_level: 2
+  heading_level: 3
   # Maximum amount of previews per search result
   # Default: 3
-  previews: 2
+  previews: 3
   # Maximum amount of words to display before a matched word in the preview
   # Default: 5
   preview_words_before: 3
