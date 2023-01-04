@@ -25,7 +25,7 @@ At the end of this course, you will be able to:
 We will use the textbook [Computer Networking: A Top-Down Approach (8th Edition) by Kurose and Ross](https://www.pearson.com/en-us/subject-catalog/p/computer-networking/P200000003334/9780135928615) as a reference and as a source of examples. Older versions of the book are fine too but sections number won't necessarily match.
 
 ## Prerequisites 
-Pre: 315 and one of 342, or MATH 371 or MATH 471; or consent.
+Pre: EE 315 and one of EE 342, or MATH 371 or MATH 471; or consent.
 
 ## Requirements
 
