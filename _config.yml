@@ -34,17 +34,6 @@ color_scheme: schmittpaul
 # Enable or disable heading anchors
 heading_anchors: true
 
-# Aux links for the upper right navigation
-# aux_links:
-#   "nPrint on GitHub":
-#     - "//github.com/nprint/nprint"
-#   "nPrintML on GitHub":
-#     - "//github.com/nprint/nprintml"
-#   "pcapML on GitHub":
-#     - "//github.com/nprint/pcapml"
-#   "pcapML Benchmark Repository":
-#     - "//github.com/nprint/benchmarks"
-
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
 
