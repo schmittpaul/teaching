@@ -1,7 +1,6 @@
 ---
 layout: default
-title: EE449 - Spring 2023
-nav_order: 1
+title: 2023 Spring EE449
 has_children: true
 parent: Home
 ---

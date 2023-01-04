@@ -3,7 +3,7 @@ layout: default
 title: Additional Resources
 nav_order: 5
 has_children: false
-parent: EE693F
+parent: 2022 Fall EE693F
 grand_parent: Home
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: Schedule
 nav_order: 2
 has_children: false
-parent: EE449 - Spring 2023
+parent: 2023 Spring EE449
 grand_parent: Home
 ---
 

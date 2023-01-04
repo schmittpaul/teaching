@@ -3,7 +3,7 @@ layout: default
 title: Additional Resources
 nav_order: 5
 has_children: false
-parent: EE449 - Spring 2023
+parent: 2023 Spring EE449
 grand_parent: Home
 ---
 
