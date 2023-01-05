@@ -12,7 +12,7 @@ grand_parent: Home
 This is a **tentative** schedule. Things will change / evolve as we work through discussions together.
 
 | Date      | Topic        | Due  |
-|-----------|--------------|------|
+|:-----------|:--------------|:------|
 | 1/9/2023  | Introduction |      |
 | 1/11/2023 | Introduction |      |
 | 1/13/2023 | Introduction |      |
