@@ -29,16 +29,16 @@ Pre: EE 315 and one of EE 342, or MATH 371 or MATH 471; or consent.
 
 ## Requirements
 
-The class will focus on topics in computer privacy and security. You will need
-to read papers prior to class, and be engaged in discussions. 
+The class will be graded 70% based on two exams and 30% based on exercises and a group project. 
 
-- Class participation: 20%
-- Security reviews: 10%
-- Project proposal: 10%
-- Project reviews: 20%
-- Project: 40%
+- Midterm Exam: 35%
+- Final Exam: 35%
+- Exercises / Internet Routing Project: 30%
 
-The project will be the biggest piece of this class as the class is designed to
-be an introduction to research in computer privacy and security. Projects can
-be in small groups that will depend on final enrollment. I will update the
-schedule with information on due dates.
+All assigned work is due by 11:59pm on their selected days. If you submit your work late, we will give you credit for it according to this scale:
+
+- 80% for work submitted up to 1 day late;
+- 70% for work submitted up to 2 days late;
+- 60% for work submitted up to 3 days late;
+- 50% for work submitted up to 7 days late;
+- 0% for work submitted more than 7 days late.
