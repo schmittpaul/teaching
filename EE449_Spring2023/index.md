@@ -27,7 +27,7 @@ We will use the textbook [Computer Networking: A Top-Down Approach (8th Edition)
 ## Prerequisites 
 Pre: EE 315 and one of EE 342, or MATH 371 or MATH 471; or consent.
 
-## Requirements
+## Grading
 
 The class will be graded 70% based on two exams and 30% based on exercises and a group project. 
 
