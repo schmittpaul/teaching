@@ -18,7 +18,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 1/13/2023 | Networking Fundamentals            | 1.2 (The Network Edge)                                                                                                                 | [Slides](slides/EE449-03.pdf) <br> [Exercises](exercises/week_1.pdf)|
 | 1/16/2023 | No class                           |                                                                                                                                        | |
 | 1/18/2023 | Networking Fundamentals            | 1.3 (The Network Core)                                                                                                                 | [Slides](slides/EE449-04.pdf) |
-| 1/20/2023 | Networking Fundamentals            | 1.4 (Delay, Loss and Throughput)                                                                                                       | |
+| 1/20/2023 | Networking Fundamentals            | 1.4 (Delay, Loss and Throughput)                                                                                                       | [Slides](slides/EE449-05.pdf) |
 | 1/23/2023 | Networking Fundamentals            | 1.5 (Protocol Layers)                                                                                                                  | |
 | 1/25/2023 | Routing Foundations                | 5.2.1 (LS Routing)                                                                                                                     | |
 | 1/27/2023 | Routing Foundations                | 5.2.2 (DV Routing)                                                                                                                     | |
