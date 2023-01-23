@@ -19,8 +19,8 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 1/16/2023 | No class                           |                                                                                                                                        | |
 | 1/18/2023 | Networking Fundamentals            | 1.3 (The Network Core)                                                                                                                 | [Slides](slides/EE449-04.pdf) |
 | 1/20/2023 | Networking Fundamentals            | 1.4 (Delay, Loss and Throughput)                                                                                                       | [Slides](slides/EE449-05.pdf) |
-| 1/23/2023 | Networking Fundamentals            | 1.5 (Protocol Layers)                                                                                                                  | [Sample trace](exercises/http.pcap) |
-| 1/25/2023 | Routing Foundations                | 5.2.1 (LS Routing)                                                                                                                     | |
+| 1/23/2023 | Networking Fundamentals            | 1.5 (Protocol Layers)                                                                                                                  | [Slides](slides/EE449-06.pdf) |
+| 1/25/2023 | Routing Foundations                | 5.2.1 (LS Routing)                                                                                                                     | [Sample trace](exercises/http.pcap) |
 | 1/27/2023 | Routing Foundations                | 5.2.2 (DV Routing)                                                                                                                     | |
 | 1/30/2023 | Routing Foundations                |                                                                                                                                        | |
 | 2/1/2023  | Ethernet & Switching               | 6.1 (Intro to the Link Layer)                                                                                                          | |
