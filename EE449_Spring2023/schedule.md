@@ -21,7 +21,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 1/20/2023 | Networking Fundamentals            | 1.4 (Delay, Loss and Throughput)                                                                                                       | [Slides](slides/EE449-05.pdf) |
 | 1/23/2023 | Networking Fundamentals            | 1.5 (Protocol Layers)                                                                                                                  | [Slides](slides/EE449-06.pdf) |
 | 1/25/2023 | Routing Foundations                | 5.2.1 (LS Routing)                                                                                                                     | [Slides](slides/EE449-07.pdf) <br> [Sample trace](exercises/http.pcap) |
-| 1/27/2023 | Routing Foundations                | 5.2.2 (DV Routing)                                                                                                                     | |
+| 1/27/2023 | Routing Foundations                | 5.2.2 (DV Routing)                                                                                                                     | [Slides](slides/EE449-08.pdf) |
 | 1/30/2023 | Routing Foundations                |                                                                                                                                        | |
 | 2/1/2023  | Ethernet & Switching               | 6.1 (Intro to the Link Layer)                                                                                                          | |
 | 2/3/2023  | Ethernet & Switching               | 6.3 (Multiple Access Links and Protocols)                                                                                              | |
