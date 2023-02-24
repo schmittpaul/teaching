@@ -32,8 +32,8 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 2/15/2023 | Internet Routing                   | 5.3 (Intra-AS Routing)                                                                                                                 | [Slides](slides/EE449-16.pdf) |
 | 2/17/2023 | Internet Routing                   | 5.4 (Routing Among the ISPs)                                                                                                           | |
 | 2/20/2023 | No class                           |                                                                                                                                        | |
-| 2/22/2023 | Internet Routing                   | Same as before, focus on BGP                                                                                                           | |
-| 2/24/2023 | Internet Routing                   | Same as before, focus on BGP                                                                                                           | |
+| 2/22/2023 | Internet Routing                   | Same as before, focus on BGP                                                                                                           | [Slides](slides/EE449-17.pdf) |
+| 2/24/2023 | Internet Routing                   | Same as before, focus on BGP                                                                                                           | [SSH Instructions](exercises/SSH.pdf) |
 | 2/27/2023 | No class                           |                                                                                                                                        | |
 | 3/1/2023  | BGP                                |                                                                                                                                        | |
 | 3/3/2023  | BGP                                |                                                                                                                                        | |
