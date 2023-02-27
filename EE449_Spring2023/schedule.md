@@ -43,8 +43,8 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 3/20/2023 | Transport Layer                    | 3.1 (Intro and Transport Layer Services)                                                                                               | |
 | 3/22/2023 | Transport Layer                    | 3.3 (Connectionless Transport)                                                                                                         | |
 | 3/24/2023 | Transport Layer                    | 3.4 (Principles of Reliable Data Transfer)                                                                                             | |
-| 3/27/2023 | TCP                                | 3.5 (Connection-Oriented Transport: TCP)                                                                                               | |
-| 3/29/2023 | TCP                                |                                                                                                                                        | |
+| 3/27/2023 | No Class                           |                                                                                                                                        | |
+| 3/29/2023 | TCP                                | 3.5 (Connection-Oriented Transport: TCP)                                                                                               | |
 | 3/31/2023 | TCP                                |                                                                                                                                        | |
 | 4/3/2023  | Congestion Control                 | 3.6 (Principles of Congestion Control)                                                                                                 | |
 | 4/5/2023  | Congestion Control                 | 3.7 (TCP Congestion Control)                                                                                                           | |
