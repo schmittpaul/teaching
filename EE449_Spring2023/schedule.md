@@ -36,7 +36,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 2/24/2023 | Internet Routing                   | Same as before, focus on BGP                                                                                                           | [SSH Instructions](exercises/SSH.pdf) |
 | 2/27/2023 | BGP                                |                                                                                                                                        | [Slides](slides/EE449-18.pdf) |
 | 3/1/2023  | BGP                                |                                                                                                                                        | [Slides](slides/EE449-19.pdf) |
-| 3/3/2023  | BGP                                |                                                                                                                                        | |
+| 3/3/2023  | BGP                                |                                                                                                                                        | [Slides](slides/EE449-20.pdf) |
 | 3/6/2023  | Any leftovers for Chapters 1,4,5,6 |                                                                                                                                        | |
 | 3/8/2023  | Review                             |                                                                                                                                        | |
 | 3/10/2023 | Midterm Exam                       |                                                                                                                                        | |
