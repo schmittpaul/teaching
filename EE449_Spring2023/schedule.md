@@ -37,7 +37,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 2/27/2023 | BGP                                |                                                                                                                                        | [Slides](slides/EE449-18.pdf) |
 | 3/1/2023  | BGP                                |                                                                                                                                        | [Slides](slides/EE449-19.pdf) |
 | 3/3/2023  | BGP                                |                                                                                                                                        | [Slides](slides/EE449-20.pdf) |
-| 3/6/2023  | Any leftovers for Chapters 1,4,5,6 |                                                                                                                                        | |
+| 3/6/2023  | Any leftovers for Chapters 1,4,5,6 |                                                                                                                                        | [Slides](slides/EE449-21.pdf) |
 | 3/8/2023  | Review                             |                                                                                                                                        | |
 | 3/10/2023 | Midterm Exam                       |                                                                                                                                        | |
 | 3/20/2023 | Transport Layer                    | 3.1 (Intro and Transport Layer Services)                                                                                               | |
