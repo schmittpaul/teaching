@@ -42,7 +42,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 3/10/2023 | Midterm Exam                       |                                                                                                                                        | |
 | 3/20/2023 | Transport Layer                    | 3.1 (Intro and Transport Layer Services)                                                                                               | |
 | 3/22/2023 | Transport Layer                    | 3.3 (Connectionless Transport)                                                                                                         | [Slides](slides/EE449-23.pdf) |
-| 3/24/2023 | Transport Layer                    | 3.4 (Principles of Reliable Data Transfer)                                                                                             | |
+| 3/24/2023 | Transport Layer                    | 3.4 (Principles of Reliable Data Transfer)                                                                                             | [Slides](slides/EE449-24.pdf) |
 | 3/27/2023 | No Class                           |                                                                                                                                        | |
 | 3/29/2023 | TCP                                | 3.5 (Connection-Oriented Transport: TCP)                                                                                               | |
 | 3/31/2023 | TCP                                |                                                                                                                                        | |
