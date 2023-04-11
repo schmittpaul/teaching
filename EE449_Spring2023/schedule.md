@@ -49,7 +49,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 4/3/2023  | Congestion Control                 | 3.6 (Principles of Congestion Control)                                                                                                 | [Slides](slides/EE449-28.pdf) |
 | 4/5/2023  | Congestion Control                 | 3.7 (TCP Congestion Control)                                                                                                           | [Slides](slides/EE449-29.pdf) |
 | 4/7/2023  | No class                           |                                                                                                                                        | |
-| 4/10/2023 | Applications: DNS                  | 2.4 (DNS)                                                                                                                              | |
+| 4/10/2023 | Applications: DNS                  | 2.4 (DNS)                                                                                                                              | [Slides](slides/EE449-29.pdf) |
 | 4/12/2023 | Applications: DNS                  |                                                                                                                                        | |
 | 4/14/2023 | Applications: DNS                  |                                                                                                                                        | |
 | 4/17/2023 | Applications: HTTP                 | 2.2 (The Web and HTTP)                                                                                                                 | |
