@@ -51,7 +51,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 4/7/2023  | No class                           |                                                                                                                                        | |
 | 4/10/2023 | Applications: DNS                  | 2.4 (DNS)                                                                                                                              | [Slides](slides/EE449-30.pdf) |
 | 4/12/2023 | Applications: DNS                  |                                                                                                                                        | [Slides](slides/EE449-31.pdf) |
-| 4/14/2023 | Applications: DNS                  |                                                                                                                                        | |
+| 4/14/2023 | Applications: DNS                  |                                                                                                                                        | [Slides](slides/EE449-32.pdf) |
 | 4/17/2023 | Applications: HTTP                 | 2.2 (The Web and HTTP)                                                                                                                 | |
 | 4/19/2023 | Applications: HTTP                 |                                                                                                                                        | |
 | 4/21/2023 | Applications: HTTP                 |                                                                                                                                        | |
