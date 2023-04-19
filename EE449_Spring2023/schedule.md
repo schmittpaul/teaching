@@ -53,7 +53,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 4/12/2023 | Applications: DNS                  |                                                                                                                                        | [Slides](slides/EE449-31.pdf) |
 | 4/14/2023 | Applications: DNS                  |                                                                                                                                        | [Slides](slides/EE449-32.pdf) |
 | 4/17/2023 | Applications: HTTP                 | 2.2 (The Web and HTTP)                                                                                                                 | [Slides](slides/EE449-33.pdf) |
-| 4/19/2023 | Applications: HTTP                 |                                                                                                                                        | |
+| 4/19/2023 | Applications: HTTP                 |                                                                                                                                        | [Lab](https://github.com/schmittpaul/ee449-cc_bb) |
 | 4/21/2023 | Applications: HTTP                 |                                                                                                                                        | |
 | 4/24/2023 | Content Distribution Networks      | Note this is a different book! 9.4.3 [CDNs](https://book.systemsapproach.org/applications/overlays.html#content-distribution-networks) | |
 | 4/26/2023 | Wireless                           | 7.3 (WiFi)                                                                                                                             | |
