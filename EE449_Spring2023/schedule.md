@@ -59,4 +59,4 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 4/26/2023 | Wireless                           | 7.3 (WiFi)                                                                                                                             | [Slides](slides/EE449-36.pdf) |
 | 4/28/2023 | Wireless                           | 7.4 (Cellular)                                                                                                                         | [Slides](slides/EE449-37.pdf) |
 | 5/1/2023  | Security                           |                                                                                                                                        | [Slides](slides/EE449-38.pdf) |
-| 5/3/2023  | Review                             |                                                                                                                                        | |
+| 5/3/2023  | Review                             |                                                                                                                                        | [Slides](slides/EE449-39.pdf) |
