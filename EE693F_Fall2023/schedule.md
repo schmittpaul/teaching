@@ -3,7 +3,7 @@ layout: default
 title: Schedule
 nav_order: 2
 has_children: false
-parent: 2022 Fall EE693F
+parent: 2023 Fall EE693F
 grand_parent: Home
 ---
 

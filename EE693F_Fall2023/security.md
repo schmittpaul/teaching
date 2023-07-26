@@ -3,7 +3,7 @@ layout: default
 title: Security Review
 nav_order: 4
 has_children: false
-parent: 2022 Fall EE693F
+parent: 2023 Fall EE693F
 grand_parent: Home
 ---
 
