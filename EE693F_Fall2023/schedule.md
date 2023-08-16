@@ -28,7 +28,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 13 | ML Privacy Attacks<br>- [Membership Inference Attacks Against Machine Learning Models](papers/membership.pdf)<br>Network Protocols<br>- [Oblivious DNS: Practical Privacy for DNS Queries](papers/odns.pdf) | Full Paper Deliverable |
 | 14 | IoT<br>- [Watching You Watch: The Tracking Ecosystem of Over-the-Top TV Streaming Devices](papers/watching.pdf)<br>Ethics<br>- [Rogaway: The Moral Character of Cryptographic Work](papers/rogaway.pdf) |  |
 | 15 | Project Presentations | Paper Reviews |
-| 16 | No class: work on your project | |
+| 16 | Slack time for schedule evolution| |
 | 17 | Finals Week | Revised Papers Due |
 
 
