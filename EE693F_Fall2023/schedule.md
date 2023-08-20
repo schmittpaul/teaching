@@ -13,8 +13,8 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 
 | Week       | Class Topic | Deadlines |
 |:-----------|:------------------------------------------------------|:------------------|
-| 1 | Introduction<br>- [This World of Ours](papers/mickens.pdf)<br>- [The Security Mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html)<br>- [How to Read a Paper](papers/how_to_read_a_paper.pdf) | |
-| 2 | Passwords<br>- [The Tangled Web of Password Reuse](papers/tangled-web.pdf)<br>- [Your Pa$$word doesn't matter](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/your-pa-word-doesn-t-matter/ba-p/731984)<br>- [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks](papers/neural-passwords.pdf)<br>Biometric Auth<br>- [Impact of Artificial "Gummy" Fingers on Fingerprint Systems](https://cryptome.org/gummy.htm) | |
+| 1 | Introduction<br>- [This World of Ours](papers/mickens.pdf)<br>- [The Security Mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html)<br>- [How to Read a Paper](papers/how_to_read_a_paper.pdf)<br>Passwords<br>- [The Tangled Web of Password Reuse](papers/tangled-web.pdf) | |
+| 2 | Passwords<br>- [Your Pa$$word doesn't matter](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/your-pa-word-doesn-t-matter/ba-p/731984)<br>- [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks](papers/neural-passwords.pdf)<br>Biometric Auth<br>- [Impact of Artificial "Gummy" Fingers on Fingerprint Systems](https://cryptome.org/gummy.htm) | |
 | 3 | Metadata<br>- [Metadata: Piecing Together a Privacy Solution](papers/metadata.pdf)<br>Anonymous Authentication<br>- [Blind signatures for untraceable payments](papers/blindsignatures.pdf) | |
 | 4 | Academic Writing<br>- [The Craft of Writing Effectively](https://youtu.be/vtIzMaLkCaM)<br> Project Discussions<br> Anonymity<br>- [Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms](papers/chaum-mix.pdf) | |
 | 5 | Anonymity<br>- [Tor: The Second-Generation Onion Router](papers/tor.pdf) | Project Proposal |
