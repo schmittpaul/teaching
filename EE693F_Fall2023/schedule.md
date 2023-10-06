@@ -23,8 +23,8 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 8 | Practical Anonymity<br>- [The Decoupling Principle: A Practical Privacy Framework](papers/decoupling.pdf)<br>- [iCloud Private Relay Overview](papers/apple_pr.pdf)<br>Censorship<br>- [Alibi Routing](papers/alibi-routing.pdf) |  |
 | 9 | Censorship<br>- [Blocking-resistant communication through domain fronting](papers/domain-fronting.pdf)<br>- [The Parrot is Dead: Observing Unobservable Network Communications](papers/parrot.pdf) | Security Reviews    |
 | 10 | Mobile Censorship Resistance<br>- [Moby: A Blackout-Resistant Anonymity Network for Mobile Devices](papers/moby.pdf)<br>Mobile Location Attacks<br>- [Location Leaks on the GSM Air Interface](papers/location_leaks_gsm.pdf) |     |
-| 11 | Mobile Location Anonymity<br>- [Pretty Good Phone Privacy](papers/pgpp.pdf)<br>Mobile Apps<br>- [An Analysis of the Privacy and Security Risks of Android VPN Permission-enabled Apps](papers/vpn-app-risks.pdf)<br>Security Review Presentations | |
-| 12 | ML for Security<br>- [Outside the Closed World: On Using Machine Learning For Network Intrusion Detection](papers/ML-for-IDS.pdf) | |
+| 11 | Mobile Location Anonymity<br>- [Pretty Good Phone Privacy](papers/pgpp.pdf)<br>Mobile Apps<br>- [An Analysis of the Privacy and Security Risks of Android VPN Permission-enabled Apps](papers/vpn-app-risks.pdf) | |
+| 12 | Security Review Presentations<br>ML for Security<br>- [Outside the Closed World: On Using Machine Learning For Network Intrusion Detection](papers/ML-for-IDS.pdf) | |
 | 13 | No class - work on your projects | Full Paper Deliverable |
 | 14 | ML Privacy Attacks<br>- [Membership Inference Attacks Against Machine Learning Models](papers/membership.pdf)<br>Network Protocols<br>- [Oblivious DNS: Practical Privacy for DNS Queries](papers/odns.pdf) |  |
 | 15 | IoT<br>- [Watching You Watch: The Tracking Ecosystem of Over-the-Top TV Streaming Devices](papers/watching.pdf)<br>Ethics<br>- [Rogaway: The Moral Character of Cryptographic Work](papers/rogaway.pdf) | Paper Reviews |
