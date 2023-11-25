@@ -27,7 +27,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 12 | Security Review Presentations<br>ML for Security<br>- [Outside the Closed World: On Using Machine Learning For Network Intrusion Detection](papers/ML-for-IDS.pdf) | |
 | 13 | No class - work on your projects | Full Paper Deliverable |
 | 14 | ML Privacy Attacks<br>- [Membership Inference Attacks Against Machine Learning Models](papers/membership.pdf)<br>Network Protocols<br>- [Oblivious DNS: Practical Privacy for DNS Queries](papers/odns.pdf) |  |
-| 15 | IoT<br>- [Watching You Watch: The Tracking Ecosystem of Over-the-Top TV Streaming Devices](papers/watching.pdf)<br>Ethics<br>- [Rogaway: The Moral Character of Cryptographic Work](papers/rogaway.pdf) | Paper Reviews |
+| 15 | Ethics<br>- [Rogaway: The Moral Character of Cryptographic Work](papers/rogaway.pdf) | Paper Reviews |
 | 16 | Project Presentations | |
 | 17 | Finals Week | Revised Papers Due |
 
