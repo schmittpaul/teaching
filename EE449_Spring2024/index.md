@@ -29,9 +29,6 @@ There is no required text for this course. For reference, I will use the textboo
 Pre: EE 315 and one of EE 342, or MATH 371 or MATH 471; or consent.
 
 ## Grading
-
-The class will be graded 70% based on two exams and 25% based on exercises and a group project. 
-
 - Midterm Exam: 25%
 - Final Exam: 25%
 - Quizzes: 25%
@@ -44,3 +41,6 @@ All assigned work is due by 11:59pm on their selected days. If you submit your w
 - 70% for work submitted up to 2 days late;
 - 50% for work submitted up to 7 days late;
 - 0% for work submitted more than 7 days late.
+
+## Policies
+All work you do in this class must be *your own*. Talking with each other is perfectly fine, copying/pasting code or answers from the Internet is not acceptable, and will be handled harshly. Use of LLMs such as ChatGPT to craft answers is not accepted in this course - the point is to see whether you understand the topic.
