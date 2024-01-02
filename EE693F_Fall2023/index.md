@@ -2,7 +2,7 @@
 layout: default
 title: 2023 Fall EE693F
 parent: Home
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 
