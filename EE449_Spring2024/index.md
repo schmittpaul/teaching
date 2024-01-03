@@ -23,7 +23,7 @@ At the end of this course, you will be able to:
 3. identify the right set of metrics to evaluate the performance or the adequacy of a network and propose ways to improve it (if any).
 
 ## Textbooks
-There is no required text for this course. For reference, I will use the textbook [Computer Networking: A Top-Down Approach (8th Edition) by Kurose and Ross](https://www.pearson.com/en-us/subject-catalog/p/computer-networking/P200000003334/9780135928615) as a source of examples. We may also periodically use materials from the freely available [Computer Networks: A Systems Approach](https://book.systemsapproach.org/#).
+W will use the textbook [Computer Networking: A Top-Down Approach (8th Edition) by Kurose and Ross](https://www.pearson.com/en-us/subject-catalog/p/computer-networking/P200000003334/9780135928615) in the course. I marked the textbook as optional through the bookstore because textbooks are ridiculously expensive. Feel free to find a used older edition online for the course. We may also periodically use materials from the freely available [Computer Networks: A Systems Approach](https://book.systemsapproach.org/#).
 
 ## Prerequisites 
 Pre: EE 315 and one of EE 342, or MATH 371 or MATH 471; or consent.
@@ -43,4 +43,4 @@ All assigned work is due by 11:59pm on their selected days. If you submit your w
 - 0% for work submitted more than 7 days late.
 
 ## Policies
-All work you do in this class must be *your own*. Talking with each other is perfectly fine, copying/pasting code or answers from the Internet is not acceptable, and will be handled harshly. Use of LLMs such as ChatGPT to craft answers is not accepted in this course - the point is to see whether you understand the topic.
+I know Chegg exists and ChatGPT is awesome, but please, for the purposes of this course, submit your own work. Talking with each other is perfectly fine, copying/pasting code or answers from the Internet is not. My goal with this course is to teach you the topic, and I need to be able to assess your answers in order to know whether I'm succeeding or not, so I can adjust accordingly.
