@@ -35,6 +35,25 @@ Pre: EE 315 and one of EE 342, or MATH 371 or MATH 471; or consent.
 - Homework / Exercises: 20%
 - Class Participation: 5%
 
+The scale we'll be using:
+
+| **Letter Grade** | **Percentage** |
+|:----------------:|:--------------:|
+| A+               | 97-100%        |
+| A                | 93-96%         |
+| A−               | 90-92%         |
+| B+               | 87-89%         |
+| B                | 83-86%         |
+| B−               | 80-82%         |
+| C+               | 77-79%         |
+| C                | 73-76%         |
+| C−               | 70-72%         |
+| D+               | 67-69%         |
+| D                | 63-66%         |
+| D−               | 60-62%         |
+| F                | 0-59%          |
+
+
 All assigned work is due by 11:59pm on their selected days. If you submit your work late, we will give you credit for it according to this scale:
 
 - 80% for work submitted up to 1 day late;
