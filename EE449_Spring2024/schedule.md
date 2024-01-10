@@ -14,7 +14,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | Date      | Reading Due                | Topic                   | Materials |
 |:----------|:---------------------------|:------------------------|:----------|
 | 1/8/2024  |                            | Course Overview         | [Slides](slides/EE449-01.pdf) |
-| 1/10/2024 | Section 1.1 (The Internet) | Networking Fundamentals |           |
+| 1/10/2024 | Section 1.1 (The Internet) | Networking Fundamentals | [Slides](slides/EE449-02.pdf) |
 | 1/12/2024 | 1.2 (The Network Edge)     | Networking Fundamentals |           |
 | 1/15/2024 |                            | No class                |           |
 | 1/17/2024 |                            |                         |           |
