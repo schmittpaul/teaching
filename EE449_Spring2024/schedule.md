@@ -17,7 +17,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 1/10/2024 | Section 1.1 (The Internet)       | Networking Fundamentals | [Slides](slides/EE449-02.pdf) |
 | 1/12/2024 | 1.2 (The Network Edge)           | Networking Fundamentals | [Slides](slides/EE449-03.pdf) |
 | 1/15/2024 |                                  | No class                |           |
-| 1/17/2024 | 1.3 (The Network Core)           | Networking Fundamentals |           |
+| 1/17/2024 | 1.3 (The Network Core)           | Networking Fundamentals | [Slides](slides/EE449-04.pdf) |
 | 1/19/2024 | 1.4 (Delay, Loss and Throughput) | Networking Fundamentals |           |
 | 1/22/2024 |                            |                         |           |
 | 1/24/2024 |                            |                         |           |
