@@ -20,7 +20,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 1/17/2024 | 1.3 (The Network Core)           | Networking Fundamentals | [Slides](slides/EE449-04.pdf) |
 | 1/19/2024 | 1.4 (Delay, Loss and Throughput) | Networking Fundamentals | [Slides](slides/EE449-05.pdf) |
 | 1/22/2024 | 1.5 (Protocol Layers)            | Networking Fundamentals | [Slides](slides/EE449-06.pdf) |
-| 1/24/2024 | 2.1 (Network Applications)       | Applications            |           |
+| 1/24/2024 | 2.1 (Network Applications)       | Applications            | [Slides](slides/EE449-07.pdf) |
 | 1/26/2024 | 2.2 (The Web and HTTP)           | Applications            |           |
 | 1/29/2024 | 2.4 (DNS)                        | Applications            |           |
 | 1/31/2024 |                            |                         |           |
