@@ -21,7 +21,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 1/19/2024 | 1.4 (Delay, Loss and Throughput) | Networking Fundamentals | [Slides](slides/EE449-05.pdf) |
 | 1/22/2024 | 1.5 (Protocol Layers)            | Networking Fundamentals | [Slides](slides/EE449-06.pdf) |
 | 1/24/2024 | 2.1 (Network Applications)       | Applications            | [Slides](slides/EE449-07.pdf) |
-| 1/26/2024 | 2.2 (The Web and HTTP)           | Applications            |           |
+| 1/26/2024 | 2.2 (The Web and HTTP)           | Applications            | [Slides](slides/EE449-08.pdf) |
 | 1/29/2024 | 2.4 (DNS)                        | Applications            |           |
 | 1/31/2024 |                            |                         |           |
 | 2/2/2024  |                            |                         |           |
