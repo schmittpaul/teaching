@@ -22,7 +22,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 1/22/2024 | 1.5 (Protocol Layers)            | Networking Fundamentals | [Slides](slides/EE449-06.pdf) |
 | 1/24/2024 | 2.1 (Network Applications)       | Applications            | [Slides](slides/EE449-07.pdf) |
 | 1/26/2024 | 2.2 (The Web and HTTP)           | Applications            | [Slides](slides/EE449-08.pdf) |
-| 1/29/2024 | 2.4 (DNS)                        | Applications            |           |
+| 1/29/2024 | 2.4 (DNS)                        | Applications            | [Slides](slides/EE449-09.pdf) |
 | 1/31/2024 | Note this is a different book! 9.4.3 [CDNs](https://book.systemsapproach.org/applications/overlays.html#content-distribution-networks) | Applications            |           |
 | 2/2/2024  | DNS                        | Applications            |           |
 | 2/5/2024  |                            |                         |           |
