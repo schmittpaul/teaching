@@ -25,8 +25,8 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 1/29/2024 | 2.4 (DNS)                        | Applications            | [Slides](slides/EE449-09.pdf) |
 | 1/31/2024 | Note this is a different book! 9.4.3 [CDNs](https://book.systemsapproach.org/applications/overlays.html#content-distribution-networks) | Applications            | [Slides](slides/EE449-10.pdf) |
 | 2/2/2024  | DNS                              | Applications            | [Slides](slides/EE449-11.pdf) |
-| 2/5/2024  |                            |                         |           |
-| 2/7/2024  |                            |                         |           |
+| 2/5/2024  | DNS                              | Applications            | [Slides](slides/EE449-12.pdf) |
+| 2/7/2024  | Security                         | Applications            |           |
 | 2/9/2024  |                            |                         |           |
 | 2/12/2024 |                            |                         |           |
 | 2/14/2024 |                            |                         |           |
