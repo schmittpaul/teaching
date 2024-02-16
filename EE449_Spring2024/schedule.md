@@ -30,7 +30,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 2/9/2024  | Chapters 1 & 2 Exam                      |                         |           |
 | 2/12/2024 | Security                                 | Applications            |[Slides](slides/EE449-14.pdf) |
 | 2/14/2024 | 3.1 (Intro and Transport Layer Services) | Transport               |[Slides](slides/EE449-15.pdf) |
-| 2/16/2024 | 3.3 (Connectionless Transport)           | Transport               |           |
+| 2/16/2024 | 3.3 (Connectionless Transport)           | Transport               |[Slides](slides/EE449-16.pdf) |
 | 2/19/2024 |                            | No class                  |           |
 | 2/21/2024 | 3.4 (Principles of Reliable Data Transfer) | Transport |           |
 | 2/23/2024 | 3.5 (Connection-Oriented Transport: TCP)   | Transport |           |
