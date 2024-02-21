@@ -32,7 +32,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 2/14/2024 | 3.1 (Intro and Transport Layer Services) | Transport               |[Slides](slides/EE449-15.pdf) |
 | 2/16/2024 | 3.3 (Connectionless Transport)           | Transport               |[Slides](slides/EE449-16.pdf) |
 | 2/19/2024 |                            | No class                  |           |
-| 2/21/2024 | 3.4 (Principles of Reliable Data Transfer) | Transport |           |
+| 2/21/2024 | 3.4 (Principles of Reliable Data Transfer) | Transport | [Slides](slides/EE449-17.pdf) |
 | 2/23/2024 | 3.5 (Connection-Oriented Transport: TCP)   | Transport |           |
 | 2/26/2024 | 3.6 (Principles of Congestion Control)     | Transport |           |
 | 2/28/2024 |                                            | Transport |           |
