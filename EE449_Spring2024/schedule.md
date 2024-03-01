@@ -36,7 +36,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 2/23/2024 | 3.5 (Connection-Oriented Transport: TCP)   | Transport | [Slides](slides/EE449-18.pdf) |
 | 2/26/2024 | 3.6 (Principles of Congestion Control)     | Transport | [Slides](slides/EE449-19.pdf) |
 | 2/28/2024 |                                            | Transport | [Slides](slides/EE449-20.pdf) |
-| 3/1/2024  | 3.7 (TCP Congestion Control)               | Transport |           |
+| 3/1/2024  | 3.7 (TCP Congestion Control)               | Transport | [Slides](slides/EE449-21.pdf) |
 | 3/4/2024  |                            |                         |           |
 | 3/6/2024  |                            | Review                  |           |
 | 3/8/2024  |                            | Midterm Exam            |           |
