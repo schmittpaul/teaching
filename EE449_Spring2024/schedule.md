@@ -39,9 +39,9 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 3/1/2024  | 3.7 (TCP Congestion Control)               | Transport | [Slides](slides/EE449-21.pdf) |
 | 3/4/2024  |                            | Bufferbloat / CC lab in-class                        |  |
 | 3/6/2024  |                            | Review                  | [Slides](slides/EE449-22.pdf) |
-| 3/8/2024  |                            | Midterm Exam            |  |
+| 3/8/2024  |                            | Midterm Exam            |      |
 | 3/11/2024 | 4.1 (Overview of the Network Layer) | Network | [Slides](slides/EE449-23.pdf) |
-| 3/13/2024 | 4.2 (What's Inside a Router)        | Network |           |
+| 3/13/2024 | 4.2 (What's Inside a Router)        | Network | [Slides](slides/EE449-24.pdf) |
 | 3/15/2024 | 4.3 (The Internet Protocol)         | Network |           |
 | 3/25/2024 |                            |                         |           |
 | 3/27/2024 |                            |                         |           |
