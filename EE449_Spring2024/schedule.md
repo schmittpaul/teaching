@@ -42,7 +42,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 3/8/2024  |                            | Midterm Exam            |      |
 | 3/11/2024 | 4.1 (Overview of the Network Layer) | Network | [Slides](slides/EE449-23.pdf) |
 | 3/13/2024 | 4.2 (What's Inside a Router)        | Network | [Slides](slides/EE449-24.pdf) |
-| 3/15/2024 | 4.3 (The Internet Protocol)         | Network |           |
+| 3/15/2024 | 4.3 (The Internet Protocol)         | Network | [Slides](slides/EE449-25.pdf) |
 | 3/25/2024 |                            |                         |           |
 | 3/27/2024 |                            |                         |           |
 | 3/29/2024 |                            | No Class                |           |
