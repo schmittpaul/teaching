@@ -44,7 +44,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 3/13/2024 | 4.2 (What's Inside a Router)        | Network | [Slides](slides/EE449-24.pdf) |
 | 3/15/2024 | 4.3 (The Internet Protocol)         | Network | [Slides](slides/EE449-25.pdf) |
 | 3/25/2024 | Routing Foundations | 5.2.1 (LS Routing) |           |
-| 3/27/2024 | Routing Foundations | 5.2.2 (DV Routing) |           |
+| 3/27/2024 | Routing Foundations | 5.2.2 (DV Routing) | [Slides](slides/EE449-26.pdf) |
 | 3/29/2024 |                            | No Class                |           |
 | 4/1/2024  | Routing Foundations |                         |           |
 | 4/3/2024  |                            |                         |           |
