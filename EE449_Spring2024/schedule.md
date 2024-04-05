@@ -48,7 +48,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 3/29/2024 |                            | No Class                |           |
 | 4/1/2024  | Routing Foundations |                         | [Slides](slides/EE449-27.pdf) |
 | 4/3/2024  | Internet Routing |                         | [Slides](slides/EE449-28.pdf) |
-| 4/5/2024  | Internet Routing |                         |           |
+| 4/5/2024  | Internet Routing |                         | [Slides](slides/EE449-29.pdf) |
 | 4/8/2024  | Internet Routing | 5.3 (Intra-AS Routing) |           |
 | 4/10/2024 | Internet Routing | 5.4 (Routing Among the ISPs) |           |
 | 4/12/2024 |                            |                         |           |
