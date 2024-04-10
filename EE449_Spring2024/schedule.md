@@ -50,7 +50,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 4/3/2024  | Internet Routing |                         | [Slides](slides/EE449-28.pdf) |
 | 4/5/2024  | Internet Routing |                         | [Slides](slides/EE449-29.pdf) |
 | 4/8/2024  | Internet Routing | 5.3 (Intra-AS Routing) | [Slides](slides/EE449-30.pdf) |
-| 4/10/2024 | Internet Routing | 5.4 (Routing Among the ISPs) |           |
+| 4/10/2024 | Internet Routing | 5.4 (Routing Among the ISPs) | [Slides](slides/EE449-31.pdf) |
 | 4/12/2024 |                            |                         |           |
 | 4/15/2024 |                            |                         |           |
 | 4/17/2024 |                            |                         |           |
