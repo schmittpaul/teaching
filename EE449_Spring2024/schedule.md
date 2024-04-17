@@ -53,7 +53,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 4/10/2024 | Internet Routing | 5.4 (Routing Among the ISPs) | [Slides](slides/EE449-31.pdf) |
 | 4/12/2024 | Internet Routing |                         | [Slides](slides/EE449-32.pdf) |
 | 4/15/2024 | BGP Problems |                         | [Slides](slides/EE449-33.pdf) |
-| 4/17/2024 | BGP Problems |                         |           |
+| 4/17/2024 | BGP Problems |                         | [Slides](slides/EE449-34.pdf) |
 | 4/19/2024 |                            |                         |           |
 | 4/22/2024 |                            |                         |           |
 | 4/24/2024 |                            |                         |           |
