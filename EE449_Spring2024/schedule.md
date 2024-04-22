@@ -55,7 +55,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 4/15/2024 | BGP Problems |                         | [Slides](slides/EE449-33.pdf) |
 | 4/17/2024 | BGP Problems |                         | [Slides](slides/EE449-34.pdf) |
 | 4/19/2024 | Queuing |                         | [Slides](slides/EE449-35.pdf) |
-| 4/22/2024 |                            |                         |           |
+| 4/22/2024 | Traffic shaping / QoS |                         | [Slides](slides/EE449-36.pdf) |
 | 4/24/2024 |                            |                         |           |
 | 4/26/2024 |                            |                         |           |
 | 4/29/2024 |                            |                         |           |
