@@ -56,8 +56,9 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 4/17/2024 | BGP Problems |                         | [Slides](slides/EE449-34.pdf) |
 | 4/19/2024 | Queuing |                         | [Slides](slides/EE449-35.pdf) |
 | 4/22/2024 | Traffic shaping / QoS |                         | [Slides](slides/EE449-36.pdf) |
-| 4/24/2024 |                            |                         |           |
-| 4/26/2024 |                            |                         |           |
-| 4/29/2024 |                            |                         |           |
-| 5/1/2024  |                            | Review                  |           |
+| 4/24/2024 | Link Layer |                         | [Slides](slides/EE449-37.pdf) |
+| 4/26/2024 | Link Layer | 6.1 (Intro to the Link Layer) |           |
+| 4/29/2024 | Link Layer | 6.3 (Multiple Access Links and Protocols) |           |
+| 5/1/2024  | Link Layer | 6.4 (Switched LANs) |           |
+| 5/3/2024  |                            | Review                  |           |
 | 5/6/2024  |                            | Final Exam              |           |
