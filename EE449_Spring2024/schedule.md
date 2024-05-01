@@ -58,6 +58,6 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 4/22/2024 | Traffic shaping / QoS |                         | [Slides](slides/EE449-36.pdf) |
 | 4/24/2024 | Link Layer |                         | [Slides](slides/EE449-37.pdf) |
 | 4/26/2024 | Link Layer | 6.1 (Intro to the Link Layer) | [Slides](slides/EE449-38.pdf) |
-| 4/29/2024 | Link Layer | 6.3 (Multiple Access Links and Protocols) |           |
-| 5/1/2024  | | Review  |           |
+| 4/29/2024 | Link Layer | 6.3 (Multiple Access Links and Protocols) | [Slides](slides/EE449-39.pdf) |
+| 5/1/2024  | | Review  | [Slides](slides/EE449-40.pdf) |
 | 5/6/2024  |                            | Final Exam              |           |
