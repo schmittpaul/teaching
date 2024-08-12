@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2024 Fall EE693F
+title: 2023 Fall EE693F
 parent: Home
 nav_order: 3
 has_children: true
