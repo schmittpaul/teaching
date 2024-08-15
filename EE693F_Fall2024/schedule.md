@@ -27,7 +27,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 |  10/2/2024 | Attacking Tor<br>- [Users Get Routed: Traffic Correlation on Tor by Realistic Adversaries (2013)](papers/usersrouted-ccs13.pdf) |  |
 |  10/7/2024 | Attacking Tor<br>- [Circuit Fingerprinting Attacks: Passive Deanonymization of Tor Hidden Services (2015)](papers/circuit-fingerprinting.pdf) |     |
 |  10/9/2024 | Stronger Anonymity<br>- [Vuvuzela: Scalable Private Messaging Resistant to Traffic Analysis (2015)](papers/vuvuzela.pdf) |  Project Proposal Reviews    |
-| 10/14/2024 | Practical Anonymity<br>- [iCloud Private Relay Overview (2021)](papers/apple_pr.pdf) | |
+| 10/14/2024 | Practical Anonymity<br>- [The Decoupling Principle: A Practical Privacy Framework (2022)](papers/decoupling.pdf)<br>- [iCloud Private Relay Overview (2021)](papers/apple_pr.pdf) | |
 | 10/16/2024 | Censorship<br>- [Alibi Routing (2015)](papers/alibi-routing.pdf) |     |
 | 10/21/2024 | Censorship<br>- [Blocking-resistant communication through domain fronting (2015)](papers/domain-fronting.pdf) |     |
 | 10/23/2024 | Censorship<br>- [The Parrot is Dead: Observing Unobservable Network Communications (2013)](papers/parrot.pdf) |  Security Reviews   |
