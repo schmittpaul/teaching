@@ -36,10 +36,10 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 11/4/2024  | Mobile Location Anonymity<br>- [Pretty Good Phone Privacy (2021)](papers/pgpp.pdf) | |
 | 11/6/2024  | Mobile Apps<br>- [An Analysis of the Privacy and Security Risks of Android VPN Permission-enabled Apps (2016)](papers/vpn-app-risks.pdf) |     |
 | 11/11/2024 | No class | |
-| 11/13/2024 | ML for Security<br>- [Outside the Closed World: On Using Machine Learning For Network Intrusion Detection (2010)](papers/ML-for-IDS.pdf) | |
+| 11/13/2024 | Security Review Presentations<br>ML for Security<br>- [Outside the Closed World: On Using Machine Learning For Network Intrusion Detection (2010)](papers/ML-for-IDS.pdf) | |
 | 11/18/2024 | No class: work on your project | |
 | 11/20/2024 | No class: work on your project | Full Paper Deliverable |
-| 11/25/2024 | Security Review Presentations<br>ML Privacy Attacks<br>- [Membership Inference Attacks Against Machine Learning Models (2017)](papers/membership.pdf) | |
+| 11/25/2024 | ML Privacy Attacks<br>- [Membership Inference Attacks Against Machine Learning Models (2017)](papers/membership.pdf) | |
 | 11/27/2024 | Network Protocols<br>- [Oblivious DNS: Practical Privacy for DNS Queries (2019)](papers/odns.pdf) |  |
 | 12/2/2024  | IoT<br>- [Watching You Watch: The Tracking Ecosystem of Over-the-Top TV Streaming Devices (2019)](papers/watching.pdf) |  |
 | 12/4/2024  | IoT<br>- [Information Exposure From Consumer IoT Devices (2019)](papers/ren-imc19.pdf) | Paper Reviews |
