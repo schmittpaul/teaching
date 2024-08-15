@@ -45,6 +45,3 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 12/4/2024  | IoT<br>- [Information Exposure From Consumer IoT Devices (2019)](papers/ren-imc19.pdf) | Paper Reviews |
 | 12/9/2024  | Ethics<br>- [Rogaway: The Moral Character of Cryptographic Work (2015)](papers/rogaway.pdf) |  |
 | 12/11/2024 | Project Presentations | Revised Papers Due |
-
-
-Passwords<br>- [Your Pa$$word doesn't matter](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/your-pa-word-doesn-t-matter/ba-p/731984)<br>- [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks](papers/neural-passwords.pdf) | |
