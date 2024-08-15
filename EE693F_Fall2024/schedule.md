@@ -14,7 +14,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | Week       | Class Topic | Deadlines |
 |:-----------|:------------------------------------------------------|:------------------|
 |  8/26/2024 | Introduction<br>- [This World of Ours (2014)](papers/mickens.pdf)<br>- [The Security Mindset (2008)](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html) | |
-|  8/28/2024 | Introduction<br>- [How to Read a Paper (2007)](papers/how_to_read_a_paper.pdf) Passwords<br>- [The Tangled Web of Password Reuse (2014)](papers/tangled-web.pdf) | |
+|  8/28/2024 | Introduction<br>- [How to Read a Paper (2007)](papers/how_to_read_a_paper.pdf)<br>Passwords<br>- [The Tangled Web of Password Reuse (2014)](papers/tangled-web.pdf) | |
 |  9/2/2024  | No class | |
 |  9/4/2024  | Passwords<br>- [Your Pa$$word doesn't matter (2019)](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/your-pa-word-doesn-t-matter/ba-p/731984)<br>- [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks (2016)](papers/neural-passwords.pdf) | |
 |  9/9/2024  | Metadata<br>- [Metadata: Piecing Together a Privacy Solution (2014)](papers/metadata.pdf) | |
