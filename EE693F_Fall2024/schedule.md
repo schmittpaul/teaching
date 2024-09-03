@@ -17,7 +17,7 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 |  8/28/2024 | Introduction<br>- [How to Read a Paper (2007)](papers/how_to_read_a_paper.pdf)<br>Passwords<br>- [The Tangled Web of Password Reuse (2014)](papers/tangled-web.pdf) | |
 |  9/2/2024  | No class | |
 |  9/4/2024  | Passwords<br>- [Your Pa$$word doesn't matter (2019)](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/your-pa-word-doesn-t-matter/ba-p/731984)<br>- [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks (2016)](papers/neural-passwords.pdf) | |
-|  9/9/2024  | Metadata<br>- [Metadata: Piecing Together a Privacy Solution (2014)](papers/metadata.pdf) | |
+|  9/9/2024  | Biometric Auth<br>- [Impact of Artificial "Gummy" Fingers on Fingerprint Systems](https://cryptome.org/gummy.htm)<br>Metadata<br>- [Metadata: Piecing Together a Privacy Solution (2014)](papers/metadata.pdf) | |
 |  9/11/2024 | Anonymous Authentication<br>- [Blind signatures for untraceable payments (1983)](papers/blindsignatures.pdf) | |
 |  9/16/2024 | Project Discussions | |
 |  9/18/2024 | Academic Writing<br>- [The Craft of Writing Effectively](https://youtu.be/vtIzMaLkCaM) | |
