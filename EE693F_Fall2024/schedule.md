@@ -32,15 +32,15 @@ This is a **tentative** schedule. Things will change / evolve as we work through
 | 10/21/2024 | Censorship<br>- [Blocking-resistant communication through domain fronting (2015)](papers/domain-fronting.pdf) |     |
 | 10/23/2024 | Censorship<br>- [The Parrot is Dead: Observing Unobservable Network Communications (2013)](papers/parrot.pdf) |  Security Reviews   |
 | 10/28/2024 | Mobile Censorship Resistance<br>- [Moby: A Blackout-Resistant Anonymity Network for Mobile Devices (2022)](papers/moby.pdf) |     |
-| 10/30/2024 | Mobile Location Attacks<br>- [Location Leaks on the GSM Air Interface (2012)](papers/location_leaks_gsm.pdf) |  |
-| 11/4/2024  | Mobile Location Anonymity<br>- [Pretty Good Phone Privacy (2021)](papers/pgpp.pdf) | |
-| 11/6/2024  | Mobile Apps<br>- [An Analysis of the Privacy and Security Risks of Android VPN Permission-enabled Apps (2016)](papers/vpn-app-risks.pdf) |     |
+| 10/30/2024 | Security Review Presentations | | 
+| 11/4/2024  | Mobile Location Attacks<br>- [Location Leaks on the GSM Air Interface (2012)](papers/location_leaks_gsm.pdf) |  |
+| 11/6/2024  | Mobile Location Anonymity<br>- [Pretty Good Phone Privacy (2021)](papers/pgpp.pdf) | |
 | 11/11/2024 | No class | |
-| 11/13/2024 | Security Review Presentations<br>ML for Security<br>- [Outside the Closed World: On Using Machine Learning For Network Intrusion Detection (2010)](papers/ML-for-IDS.pdf) | |
+| 11/13/2024 | Mobile Apps<br>- [An Analysis of the Privacy and Security Risks of Android VPN Permission-enabled Apps (2016)](papers/vpn-app-risks.pdf) |     |
 | 11/18/2024 | No class: work on your project | |
 | 11/20/2024 | No class: work on your project | Full Paper Deliverable |
-| 11/25/2024 | ML Privacy Attacks<br>- [Membership Inference Attacks Against Machine Learning Models (2017)](papers/membership.pdf) | |
-| 11/27/2024 | Network Protocols<br>- [Oblivious DNS: Practical Privacy for DNS Queries (2019)](papers/odns.pdf) |  |
+| 11/25/2024 | ML for Security<br>- [Outside the Closed World: On Using Machine Learning For Network Intrusion Detection (2010)](papers/ML-for-IDS.pdf) | | 
+| 11/27/2024 | ML Privacy Attacks<br>- [Membership Inference Attacks Against Machine Learning Models (2017)](papers/membership.pdf) | |
 | 12/2/2024  | IoT<br>- [Watching You Watch: The Tracking Ecosystem of Over-the-Top TV Streaming Devices (2019)](papers/watching.pdf) |  |
 | 12/4/2024  | IoT<br>- [Information Exposure From Consumer IoT Devices (2019)](papers/ren-imc19.pdf) | Paper Reviews |
 | 12/9/2024  | Ethics<br>- [Rogaway: The Moral Character of Cryptographic Work (2015)](papers/rogaway.pdf) |  |
