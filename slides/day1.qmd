@@ -1,0 +1,42 @@
+---
+title: CSC 453
+subtitle: Operating Systems
+format: 
+  clean-revealjs:
+    self-contained: true
+    incremental: true 
+
+date: last-modified
+---
+
+## Who am I?
+
+- [https://pschmitt.net](https://pschmitt.net)
+- Academics
+  - PhD at UCSB
+  - Researcher (summers) at ICSI
+  - Postdoc then research faculty at Princeton
+  - Some other stops… USC, Stanford, UH
+- Privacy startup co-founder & CEO, measurement startup COO
+- Main focuses
+  - Integrating privacy and security into systems that we all use
+  - ML for network management
+  - Connectivity / privacy in challenging environments
+
+## {background-color="black" background-image="images/zaatari.png" background-size="cover"}
+
+## This class
+
+- Too much to cover in one term: survey of important topics
+- Course Canvas: [https://canvas.calpoly.edu/courses/168889](https://canvas.calpoly.edu/courses/168889)
+- Syllabus: 
+- Waitlists...
+
+## Who are you?
+
+::: {.nonincremental}
+- Name / Major / Year
+- Where do you identify as your hometown?
+:::
+
+# Divider {background-color="#40666e"}
