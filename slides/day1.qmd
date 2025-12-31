@@ -29,7 +29,7 @@ date: last-modified
 
 - Too much to cover in one term: survey of important topics
 - Course Canvas: [https://canvas.calpoly.edu/courses/168889](https://canvas.calpoly.edu/courses/168889)
-- Syllabus: 
+- Syllabus: [https://docs.google.com/document/d/1wf3vldlRBRfZ-AcYNf0PlwrtkJsCHUjoaqXG5QEOw3A/edit?usp=sharing](https://docs.google.com/document/d/1wf3vldlRBRfZ-AcYNf0PlwrtkJsCHUjoaqXG5QEOw3A/edit?usp=sharing)
 - Waitlists...
 
 ## Who are you?
@@ -39,4 +39,257 @@ date: last-modified
 - Where do you identify as your hometown?
 :::
 
-# Divider {background-color="#40666e"}
+## How to succeed in this class
+
+- Turn things in [on time]{.alert}
+- Attend class
+  - … on time. Lectures will start at 10 after the hour  
+- Ask questions
+  - I'm very flexible about how much we cover this semester
+  - I would rather teach less and have everyone understand it
+  - Our back-and-forth during class is the one of the few indicators I have of how much you are absorbing
+- Talk to me if you are struggling
+
+## What are we doing here?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- How many of you have participated in OS development?
+- How many of you regularly program in languages that use operating system abstractions directly?
+- And C is a decreasingly popular language!
+- So why study operating systems? Why is this class even offered? [Why is it required?]{.alert}
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="45%"}
+![](images/toplanguages.png)
+:::
+
+::::
+
+## Why take this class
+
+- You are required to do so in order to graduate
+- [Reality]{.alert}: this is how computers really work, and as a computer scientist or engineer you should know how computers really work
+- [Ubiquity]{.alert}: operating systems are everywhere and you are likely to eventually encounter them or their limitations
+- [Beauty]{.alert}: operating systems are examples of mature solutions to difficult design and engineering problems. Studying them will improve your ability to design and implement abstractions
+
+## Course progression
+
+- Introduction to operating system abstractions and structures
+- Abstracting and multiplexing:
+  - [CPU]{.alert}: interrupts, context, threads, processes, processor scheduling, thread synchronization, deadlocks
+  - [Memory]{.alert}: memory layout, address translation, paging and segmentation, address spaces, translation caching, page fault handling, page eviction, swapping
+  - [File systems and storage]{.alert}: disk scheduling, on-disk layout, files, buffer cache, crash and recovery
+  - [Security]{.alert} (time permitting)
+
+
+## Background {background-color="#40666e"}
+
+## Intro
+- What is an operating system?
+- What do they do?
+- How did OSes evolve?
+- How do OSes manage access to resources?
+
+## What is an operating system?
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+- Operating System:
+  - A [computer program]{.alert} that
+  - [multiplexes]{.alert} hardware resources and
+  - implements useful [abstractions]{.alert}.
+- The OS is just another computer program. Has the highest privilege. The core of the OS consists of the [kernel]{.alert}
+- [Multiplexing]{.alert} allows multiple people or programs to use the same set of hardware resources - processors, memory, disks, network connection - safely and efficiently.
+- [Abstractions]{.alert} simplify the usage of hardware resources by organizing information or implementing new capabilities.
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="25%"}
+![](images/OSOverview.png)
+:::
+
+::::
+
+## OS abstractions
+
+- Abstractions _simplify application design_ by:
+  - hiding undesirable properties,
+  - adding new capabilities, and
+  - organizing information
+- Abstractions provide an [interface]{.alert} to application programmers that separates [policy]{.alert}—what the interface commits to accomplishing—from [mechanism]{.alert}—how the interface is implemented.
+
+## What are the abstractions?
+
+- CPUs
+  - Processes, threads
+- Memory
+  - Address space
+- Disk
+  - Files
+
+## Example OS abstraction: file systems
+
+- What [undesirable properties]{.alert} do file systems hide?
+  - Disks are slow!
+  - Chunks of storage are actually distributed all over the disk
+  - Disk storage may fail!
+- What [new capabilities]{.alert} do files add?
+  - Growth and shrinking
+  - Organization into directories, searchability
+- What [information]{.alert} do files help organize?
+  - Ownership and permissions
+  - Access time, modification time, type, etc.
+
+## Abstraction tradeoffs - discussion
+
+::: {.nonincremental}
+- Identify undesirable properties hidden by, new capabilities added, and info organization provided with these abstractions:
+  - Process / threads
+  - Address space
+:::
+
+::: {.notes}
+Processes/Threads
+
+- Hiding undesirable properties:
+  - Example: The process abstraction hides the complexity of CPU scheduling and context switching. Applications don't need to manage the low-level details of how the CPU switches between different tasks. Similarly, the thread abstraction hides the intricacies of managing multiple execution paths within a single process, allowing developers to focus on the logic of concurrent tasks.
+- Adding new capabilities:
+  - Example: Processes provide isolation between different applications, ensuring that one misbehaving application doesn't affect others. Threads within a process allow for parallel execution of tasks, improving performance and responsiveness. Additionally, operating systems often provide inter-process communication (IPC) mechanisms, enabling processes to coordinate and share data.
+- Organizing information:
+  - Example: The process abstraction organizes the execution environment by encapsulating the code, data, and resources needed for a program to run. Threads further organize execution by dividing tasks within a process into smaller, manageable units. This organization helps in structuring complex applications and improving their maintainability.
+
+Memory Address Space
+
+- Hiding undesirable properties:
+  - Example: The memory address space abstraction hides the physical memory layout from applications. Programs use virtual addresses, which the operating system maps to physical memory locations. This abstraction also hides the details of memory fragmentation and allocation, simplifying memory management for developers.
+- Adding new capabilities:
+  - Example: Virtual memory allows applications to use more memory than physically available by swapping data to and from disk. This capability enables larger and more complex applications to run on systems with limited physical memory. Additionally, memory protection mechanisms prevent one process from accessing the memory of another, enhancing system stability and security.
+- Organizing information:
+  - Example: The memory address space abstraction organizes memory into segments such as code, data, heap, and stack. This organization helps in managing different types of data efficiently and ensures that memory is used in a structured manner. For instance, the stack is used for function calls and local variables, while the heap is used for dynamic memory allocation.
+
+:::
+
+## What isn't clear? Comments? Thoughts? {background-color="#40666e"}
+
+## Abstraction pros / cons
+
+- [Advantages]{.alert} of OS providing abstractions?
+  - Allow applications to reuse common facilities
+  - Make different devices look the same
+  - Provide higher-level or more useful functionality
+- [Challenges]{.alert}?
+  - What are the correct abstractions?
+  - How much should be exposed?
+
+## OS design requirements - what do we need?
+
+- [Convenience]{.alert}, abstraction of hardware resources for user programs
+- [Efficiency]{.alert} of usage of CPU, memory, etc.
+- [Isolation]{.alert} between multiple processes
+- [Reliability]{.alert}, the OS must not fail
+- Other:
+  - Security
+  - Mobility
+
+## So, what is an operating system?
+
+- Another view: [resource manager]{.alert} - shares resources "well"
+- [Advantages]{.alert} of the OS managing resources?
+  - Protect applications from one another
+  - Provide efficient access to resources (cost, time, energy)
+  - Provide fair access to resources
+- [Challenges]{.alert}?
+  - What are the correct mechanisms?
+  - What are the correct policies?
+
+## Resources are managed via [services]{.alert}
+
+- Program Execution (loading, running, monitoring, terminating)
+- Performance (optimizing resources under constraints)
+- Correctness (overseeing critical operations, preventing interference)
+- Fairness (access to and allocation of resources)
+- Error detection & recovery (network partition & media failure)
+
+## Services (cont'd)
+
+- Communication (inter-process, software-to-hardware, hardware-to-hardware, system-to-system, wide-area)
+- I/O: reading & writing, support for various mediums, devices, performance, and protections
+- Data Organization (naming), Services (search) & Protection (access control)
+- Security (isolation, enforcement, services, authentication, accounting and logging, trust)
+- User interfaces (command-line, GUIs, multiple users)
+
+## Each service has [challenges]{.alert} and [tensions]{.alert}
+
+Example 1: We have limited RAM, and we want to run more programs that can be stored. 
+  
+- How do we allocate space?
+- Who stays?
+- Who goes? 
+- What if we're wrong? 
+- What if the system is under extremely heavy load?
+- Is there a way to predict the future?
+
+## Each service has [challenges]{.alert} and [tensions]{.alert}
+
+Example 2: We have two process (producer / consumer); how do they communicate? 
+
+- Message passing? Shared memory? 
+- How do they synchronize? 
+  - How to we prevent over-production? Over-consumption?
+  - Context-switching?
+
+## What isn't clear? Comments? Thoughts? {background-color="#40666e"}
+
+# SLOsh {background-color="#40666e"}
+
+## Signal handling
+
+- General
+- Signal handler for SIGINT
+- Parent vs child
+- sigaction
+
+## General
+
+- Signals are async. They can happen at any time
+- Certain functions are async-safe, others are not
+  - `printf()` contains internal buffers and state; an interruption can lead to corrupted buffers 
+
+## Handling SIGINT
+
+- `write()` a newline or whatever to signify the signal was caught.
+- If there is not a child running, `write()` a new prompt
+- Why not just use `display_prompt()`?
+  - If it's using `write()` it could be fine. If it's using `printf()` it isn't
+
+## Parent vs child
+
+- The child should immediately reset signal handling to the default
+- Look up `signal()`'s man
+  ```{.bash code-line-numbers=false}
+  man 2 signal
+  ``` 
+
+## Sigaction
+
+- `sigaction()` is newer than `signal()`
+- Offers more control and is more consistent across systems
+- Allows specifying flags
+  - SA_RESTART (`man 7 signal`)
+    - Without it, syscalls return with EINTR error if they are interrupted by a signal
+    - With it, most syscalls automatically restart
+- Is the POSIX-compliant approach
+- EINTR can still happen, it's wise to check for it and handle it
+  - When reading input from user
