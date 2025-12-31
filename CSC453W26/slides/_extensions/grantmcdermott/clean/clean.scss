@@ -7,6 +7,7 @@ $accent: #107895;
 $accent2: #9a2515;
 // $accent2: #e64173;
 $right-arrow: "\2192"; // Unicode character for right arrow
+$hollow-bullet: "\25E6"; // Unicode character for hollow bullet
 
 // fonts
 
@@ -157,6 +158,19 @@ $selection-bg: #26351c !default;
 
   li:before {
     content: $right-arrow;
+    color: mix($accent, white, 60%);
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+    margin-right: 0.5em;
+  }
+}
+
+.reveal ul ul ul {
+  list-style: none;
+
+  li:before {
+    content: $hollow-bullet;
     color: mix($accent, white, 60%);
     display: inline-block;
     width: 1em;
